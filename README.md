@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/0gregory0" target="blank"><img src="https://img.shields.io/twitter/follow/0gregory0?logo=twitter&style=for-the-badge" alt="0gregory0" /></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 🧰</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 📲</h3>
 <p align="left">
 <a href="https://twitter.com/0gregory0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0gregory0" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/gregory-opondi-03b98b197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregory opondi" height="30" width="40" /></a>
@@ -40,4 +40,4 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0gregory0&theme=dark" alt="0gregory0" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0gregory0&label=Profile%20views&color=0e75b6&style=flat" alt="0gregory0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0gregory0&label=Today's%20profile%20views&color=0e75b6&style=flat" alt="0gregory0" /> </p>
