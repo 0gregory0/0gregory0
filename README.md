@@ -38,4 +38,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0gregory0&" alt="0gregory0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0gregory0&theme=dark" alt="0gregory0" /></p>
