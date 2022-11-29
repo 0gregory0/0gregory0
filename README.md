@@ -41,12 +41,12 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 <h3 align="left">GitHub Stats 📈</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0gregory0&theme=dark" alt="0gregory0" /></p>
+
 <picture>
 <img src="https://github-readme-stats.vercel.app/api?username=0gregory0&show_icons=true&theme=github_dark" />
-</picture>
+</picture> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gregory0&layout=compact&theme=github_dark)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0gregory0&theme=dark" alt="0gregory0" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0gregory0&label=Today's%20profile%20views&color=0e75b6&style=flat" alt="0gregory0" /> </p>
