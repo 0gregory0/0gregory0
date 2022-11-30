@@ -49,4 +49,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0gregory0&layout=compact&theme=transparent)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0gregory0&label=Today's%20profile%20views&color=0e75b6&style=flat" alt="0gregory0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0gregory0&label=Profile%20views&color=0e75b6&style=flat" alt="0gregory0" /> </p>
