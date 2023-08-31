@@ -6,7 +6,7 @@
 - 👀 I’m interested in Data Science: AI and ML
 - 🌱 I’m currently learning back end web development with Django
 - 💞️ I’m looking to collaborate on web app projects with a social impact
-- 📫 Reach me on [Twitter](https://twitter.com/0gregory0). DMs are always open.
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gregory-opondi-03b98b197/).
 
 <!---
 0gregory0/0gregory0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
