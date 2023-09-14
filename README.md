@@ -1,6 +1,6 @@
 # Meet ✨Gregory✨
 
-![GREGORY README](https://user-images.githubusercontent.com/91679905/195034610-92f584d9-2b7d-4f37-8ce9-3aaa9dcecf89.png)
+<!--- ![GREGORY README](https://user-images.githubusercontent.com/91679905/195034610-92f584d9-2b7d-4f37-8ce9-3aaa9dcecf89.png) --->
 
 - 👋 Hi, I’m [@0gregory0](https://linktr.ee/o.gregory.o)
 - 👀 I’m interested in Data Science: AI and ML
