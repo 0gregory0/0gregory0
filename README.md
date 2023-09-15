@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning back-end web development with Django
 - 💞️ I’m looking to collaborate on web app projects with a social impact
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gregory-opondi-03b98b197/).
+<!--- - ⚡ Fun fact: I'm a [mutant](https://vimeo.com/721514041) --->
   
 <!---
 0gregory0/0gregory0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
