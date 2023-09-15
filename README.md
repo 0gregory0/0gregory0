@@ -4,10 +4,10 @@
 
 - 👋 Hi, I’m [@0gregory0](https://linktr.ee/o.gregory.o)
 - 👀 I’m interested in Data Science: AI and ML
-- 🌱 I’m currently learning back end web development with Django
+- 🌱 I’m currently learning back-end web development with Django
 - 💞️ I’m looking to collaborate on web app projects with a social impact
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gregory-opondi-03b98b197/).
-
+  
 <!---
 0gregory0/0gregory0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -17,7 +17,15 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/0gregory0" target="blank"><img src="https://img.shields.io/twitter/follow/0gregory0?logo=twitter&style=for-the-badge" alt="0gregory0" /></a> </p>
 
+---
+## Random Dev Quotes that I like
+
+- "Talk is cheap, show me the code" ~***Linus Torvalds***
+- "Torture the data long enough and it will confess to anything"
+
 <hr>
+
+## Tech Stack
 
 <h3 align="left">Languages and Tools 🧰</h3>
 <p align="left">
