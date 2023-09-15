@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 ## Random Dev Quotes that I like
 
 - "Talk is cheap, show me the code" ~***Linus Torvalds***
-- "Torture the data long enough and it will confess to anything"
+- "Torture the data long enough and it will confess to anything" ~***Ronald Coase***
 
 <hr>
 
