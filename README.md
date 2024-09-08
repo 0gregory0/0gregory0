@@ -3,8 +3,8 @@
 <!--- ![GREGORY README](https://user-images.githubusercontent.com/91679905/195034610-92f584d9-2b7d-4f37-8ce9-3aaa9dcecf89.png) --->
 
 - 👋 Hi, I’m [@0gregory0](https://linktr.ee/o.gregory.o)
-- 👀 I’m interested in Data Science: AI and ML
-- 🌱 I’m currently learning back-end web development with Django
+- 👀 I’m interested in Data Science and Predictive Analytics.
+- 🌱 I’m currently learning data analysis with Python
 - 💞️ I’m looking to collaborate on web app projects with a social impact
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gregory-opondi-03b98b197/).
 <!--- - ⚡ Fun fact: I'm a [mutant](https://vimeo.com/721514041) --->
